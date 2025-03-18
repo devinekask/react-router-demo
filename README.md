@@ -1,5 +1,8 @@
 # React + Vite + React Router
 
+<https://github.com/devinekask/react-router-demo>
+<https://devinekask.github.io/react-router-demo/>
+
 ## Takeaways
 
 - State lives in the `App.jsx`
